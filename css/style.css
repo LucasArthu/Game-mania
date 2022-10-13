@@ -109,18 +109,6 @@ header .menu a {
     
 }
 
-
-
-/* PRODUTOS COM GRID */
-
-/* .mostra-coluna {
-    border:2px solid red;
-} */
-
-
-
-
-
 /* PRODUTOS */
 
 .produtos {
@@ -147,6 +135,10 @@ header .menu a {
 .titulo2 {
     color: white;
 }
+
+
+
+/* rodapé */
 
 footer {
     width: 100%;
